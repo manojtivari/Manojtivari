@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">![image](https://github.com/manojtivari/Manojtivari/assets/96693066/387ec17c-2d91-4a2a-8034-1fc0ff690c63)</h1>
+
 
 # project
 <h1 align="center">Hi 👋, I'm Manoj kumar</h1>
